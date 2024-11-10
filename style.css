@@ -13,3 +13,9 @@ p {
     border-radius: 25px;
     border: 2px;
 }
+
+.hero-intro {
+    background-color: bisque;
+    color: hotpink;
+    display: flex;
+}

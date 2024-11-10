@@ -4,3 +4,12 @@ p {
     justify-content: center;
     font-weight: 500;
 }
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+.btn button {
+    border-radius: 25px;
+    border: 2px;
+}

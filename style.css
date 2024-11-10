@@ -13,8 +13,11 @@ p {
     border-radius: 25px;
     border: 2px;
 }
-
+.btn button:hover{
+    background-color: aliceblue;
+}
 .hero-intro {
+    margin-top: 10px;
     background-color: bisque;
     color: hotpink;
     display: flex;

@@ -1,0 +1,6 @@
+p {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+}
